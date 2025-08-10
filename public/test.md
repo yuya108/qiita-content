@@ -1,7 +1,7 @@
 ---
 title: test
 tags:
-  - 'Hello Qiita'
+  - 'HelloQiita'
 private: false
 updated_at: ''
 id: null
