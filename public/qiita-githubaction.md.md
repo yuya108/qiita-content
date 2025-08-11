@@ -1,11 +1,11 @@
 ---
 title: GitHub Actions を使って Qiita へ投稿
 tags:
-  - 'GitHubAction'
-  - 'qiitacli'
+  - GitHubActions
+  - QiitaCLI
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-08-11T21:55:27+09:00'
+id: fcdbe0522c7d2d732bf3
 organization_url_name: null
 slide: false
 ignorePublish: false
