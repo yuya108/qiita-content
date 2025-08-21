@@ -1,11 +1,11 @@
 ---
 title: 偏愛マップの気づき
 tags:
-  - '偏愛マップ'
-  - 'コミュニケーション'
+  - コミュニケーション
+  - 偏愛マップ
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-08-21T17:56:35+09:00'
+id: aab8f1fadfef2ec18f05
 organization_url_name: null
 slide: false
 ignorePublish: false
